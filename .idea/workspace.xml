@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e719cba6-6d1a-41e1-9311-f1e66356bc46" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/EDsoft.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/about-us.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/about-us/Enzo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/about-us/alvarlo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/about-us/raquel.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/image-banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/information-home/creators-content-contenido.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/information-home/viewers-content-contenido.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/logo.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/logo.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/services/services-creatos-content.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/services/services-free.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/images/services/services-viewers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/assets/svg/playstore.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/plans.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/scripts/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/público/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FQQds3zlkXEyriLsz7niM6Ws0z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rache\OneDrive\Documentos\GitHub\SocialFilm.LandingPage\public" />
+      <recent name="C:\Users\Rache\OneDrive\Documentos\GitHub\SocialFilm.LandingPage\público" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e719cba6-6d1a-41e1-9311-f1e66356bc46" name="Changes" comment="" />
+      <created>1664421919407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664421919407</updated>
+      <workItem from="1664421920867" duration="1804000" />
+      <workItem from="1664423941883" duration="674000" />
+      <workItem from="1664425452926" duration="583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
